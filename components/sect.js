@@ -12,9 +12,9 @@ const Section = () => {
         >
           <Box textAlign={"center"}>
             <Text fontSize={"5xl"}>
-              <i>"We provide Electrical Installation,</i>
+              <i>We provide Electrical Installation,</i>
               <br></br>
-              <i>Upgrades and Installation"</i>
+              <i>Upgrades and Installation</i>
             </Text>
             <p>
               Patco Agents have extensive experience in both commercial and
