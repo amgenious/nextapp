@@ -27,7 +27,7 @@ const HomePage = () => {
         >
           <Box fontSize={"50"} fontWeight={"semibold"} color={"whiteAlpha.900"}>
             <h1>
-              If it Electrical<br></br>We can do it
+              If it is Electrical<br></br>We can do it
             </h1>
           </Box>
         </Flex>

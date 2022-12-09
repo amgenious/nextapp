@@ -14,28 +14,28 @@ const Experience = () => {
           Why We Should Be Your <br></br>Top Choice
         </Text>
         <Flex flexWrap={"wrap"} justifyContent={'center'}>
-          <Card>
+          <Card marginBottom={2}>
             <CardBody>
               <Text p={5}>
                 Quick Response Time.
               </Text>
             </CardBody>
           </Card>
-          <Card>
+          <Card marginBottom={2}>
             <CardBody>
               <Text p={5}>
                 Licensed Electricians.
               </Text>
             </CardBody>
           </Card>
-          <Card>
+          <Card marginBottom={2}>
             <CardBody>
               <Text p={5}>
                 Experience and Accesible.
               </Text>
             </CardBody>
           </Card>
-          <Card>
+          <Card marginBottom={2}>
             <CardBody>
               <Text p={5}>
                 Over 15 years experience.

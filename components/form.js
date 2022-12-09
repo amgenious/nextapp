@@ -33,11 +33,11 @@ const Contact = () => {
               <Input placeholder="Email" />
             </FormControl>
             <FormControl isRequired marginBottom={3}>
-              <FormLabel>Day</FormLabel>
+              <FormLabel>Date</FormLabel>
               <Input  type={"date"}/>
             </FormControl>
             <FormControl isRequired marginBottom={3}>
-              <FormLabel>Day</FormLabel>
+              <FormLabel>Time</FormLabel>
               <Input  type={"time"}/>
             </FormControl>
             <Textarea placeholder="Type your problem" marginBottom={2}></Textarea>
@@ -53,10 +53,10 @@ const Contact = () => {
             <Text fontSize={"20px"}>
               <TimeIcon></TimeIcon> 8am - 5pm
             </Text>
-            <Text fontSize={"20px"}>
+            <Text fontSize={"15px"}>
               <PhoneIcon></PhoneIcon> 0242365073
             </Text>
-            <Text fontSize={"20px"}>
+            <Text fontSize={"15px"}>
               <EmailIcon></EmailIcon> henrytweneboah956@gmail.com
             </Text>
           </Box>
